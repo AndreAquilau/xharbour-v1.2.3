@@ -45,7 +45,7 @@ F:\Development\xHarbour.1.0.0\bcc740\BCC740\bin
 -aa
 -x
 ```
-
+> F:\Development\xHarbour.1.2.3\xhb10264_bcc740\xharbour\bin\harbour.cfg
 ```.cfg
 CC=BCC32
 CFLAGS= -c -D__EXPORT__ -IF:\Development\xHarbour.1.0.0\xhb10264_bcc740\xharbour\include  -d -LF:\Development\xHarbour.1.0.0\xhb10264_bcc740\xharbour\lib
