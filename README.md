@@ -8,8 +8,8 @@
 
 ### Adicionando PATHs
 ```.env
-F:\Development\xHarbour.1.0.0\xhb10264_bcc740\xharbour\bin
-F:\Development\xHarbour.1.0.0\bcc740\BCC740\bin
+F:\Development\xHarbour.1.2.3\xhb10264_bcc740\xharbour\bin
+F:\Development\xHarbour.1.2.3\bcc740\BCC740\bin
 ```
 
 ### Editar arquivos de configuracões
