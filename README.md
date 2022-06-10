@@ -2,7 +2,7 @@
 [xHarbour](http://www.xharbour.org)<br>
 [xHarbour Binaries 1.2.3 Rev. 10264 for BCC 7.40](http://www.xharbour.org/index.asp?page=download/windows/binaries_win)<br>
 [Embarcadero 32-bit BCC 7.40 Compiler (Evaluation Only!)](http://www.xharbour.org/index.asp?page=download/windows/required_win)<br>
-[Harbour Reference Guide](https://harbour.github.io/doc/harbour.html#welcome-to-harbour)
+[Harbour Reference Guide](https://harbour.github.io/doc/harbour.html#welcome-to-harbour)<br>
 [Fivewin Brasil](http://fivewin.com.br/)<br>
 [Ext. VsCode Harbour and xHarbour - Antonino Perricone](https://marketplace.visualstudio.com/items?itemName=aperricone.harbour)<br>
 
