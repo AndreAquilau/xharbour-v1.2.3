@@ -1,10 +1,10 @@
 ### Starting
-[xHarbour](http://www.xharbour.org)
-[xHarbour Binaries 1.2.3 Rev. 10264 for BCC 7.40](http://www.xharbour.org/index.asp?page=download/windows/binaries_win)
-[Embarcadero 32-bit BCC 7.40 Compiler (Evaluation Only!)](http://www.xharbour.org/index.asp?page=download/windows/required_win)
+[xHarbour](http://www.xharbour.org)<br>
+[xHarbour Binaries 1.2.3 Rev. 10264 for BCC 7.40](http://www.xharbour.org/index.asp?page=download/windows/binaries_win)<br>
+[Embarcadero 32-bit BCC 7.40 Compiler (Evaluation Only!)](http://www.xharbour.org/index.asp?page=download/windows/required_win)<br>
 [Harbour Reference Guide](https://harbour.github.io/doc/harbour.html#welcome-to-harbour)
-[Fivewin Brasil](http://fivewin.com.br/)
-[Ext. VsCode Harbour and xHarbour - Antonino Perricone](https://marketplace.visualstudio.com/items?itemName=aperricone.harbour)
+[Fivewin Brasil](http://fivewin.com.br/)<br>
+[Ext. VsCode Harbour and xHarbour - Antonino Perricone](https://marketplace.visualstudio.com/items?itemName=aperricone.harbour)<br>
 
 ### Adicionando PATHs
 ```.env
@@ -51,10 +51,10 @@ CC=BCC32
 CFLAGS= -c -D__EXPORT__ -IF:\Development\xHarbour.1.0.0\xhb10264_bcc740\xharbour\include  -d -LF:\Development\xHarbour.1.0.0\xhb10264_bcc740\xharbour\lib
 VERBOSE=YES
 DELTMP=YES
-``
+```
 
 
 ### REFERENCIAS 
-[xHarbour Binaries 1.2.3 Rev. 10264 for BCC 7.40](http://www.xharbour.org/index.asp?page=download/windows/binaries_win)
-[Embarcadero 32-bit BCC 7.40 Compiler (Evaluation Only!)](http://www.xharbour.org/index.asp?page=download/windows/required_win)
-[Harbour Reference Guide](https://harbour.github.io/doc/harbour.html#welcome-to-harbour)
+[xHarbour Binaries 1.2.3 Rev. 10264 for BCC 7.40](http://www.xharbour.org/index.asp?page=download/windows/binaries_win)<br>
+[Embarcadero 32-bit BCC 7.40 Compiler (Evaluation Only!)](http://www.xharbour.org/index.asp?page=download/windows/required_win)<br>
+[Harbour Reference Guide](https://harbour.github.io/doc/harbour.html#welcome-to-harbour)<br>
